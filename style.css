@@ -1,0 +1,20 @@
+h1 {
+    size: 3rem;
+}
+
+body {
+    background-color: black;
+}
+
+img {
+    border: 5px solid white;
+}
+
+
+.image {
+    
+    text-align: center;
+    font-family: 'Libre Baskerville', serif;
+    color: white;
+    margin-top: 100px;
+}
